@@ -29,8 +29,6 @@ const Home = () => {
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat officia deserunt necessitatibus maiores corporis quaerat quasi asperiores cum, fugiat doloribus quae eaque nobis nihil animi! Quo magni explicabo expedita iusto.
                         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Animi eius at explicabo distinctio deserunt culpa dignissimos maiores? Iusto aspernatur, labore placeat odit, dolore est reiciendis optio suscipit quis quibusdam repudiandae.
                         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusamus distinctio praesentium temporibus consequatur tempora repellendus libero aliquid tenetur facilis ratione, animi, explicabo ipsam error obcaecati, dolorum atque sint saepe cupiditate.
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia ad quibusdam aliquid, tempore dolorum totam sed alias eum odit provident, eligendi assumenda qui reiciendis deleniti beatae officiis dolore? Libero, alias.
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore excepturi amet perspiciatis fugiat illo porro veritatis vitae dolore libero eius. Maxime laboriosam voluptates temporibus, doloremque assumenda numquam consequatur aspernatur aperiam.
 
                     </p>
                 </div>
